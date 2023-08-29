@@ -24,6 +24,13 @@ This repo includes a react basic layout using Vite. It includes Redux, eslint, a
 
 - always add directories into src folder
 - Don't mess with the the `index.js` file in the main Directory
+- to use Sass for styling:
+  - open new git-bash terminal in VSC terminal window
+  - change your directory to `React_ReduxTemplate/src/styles`
+  - activate sass by `sass --watch Sass:Css`
+  - create any sass file and it will be automatically created on css on the Css folder
+  - you will use the css files in your JS or JSX file 
+  
 
 ## Video explaining Steps
 
