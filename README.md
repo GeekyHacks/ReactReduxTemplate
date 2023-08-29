@@ -31,7 +31,3 @@ This repo includes a react basic layout using Vite. It includes Redux, eslint, a
   - create any sass file and it will be automatically created on css on the Css folder
   - you will use the css files in your JS or JSX file 
   
-
-## Video explaining Steps
-
-- [Geekyhacks](https://youtu.be/7Dpe_IZ06-I)git
