@@ -1,5 +1,11 @@
-
 # ReactReduxTemplate
+
+<div align="center">
+  <img src="./src/assets/welcometomyGIthub.png"  alt="GEEKY HACKS">
+  <br>
+
+</div>
+
 This repo includes a react basic layout using Vite. It includes Redux, eslint, and stylelint linter tests.
 
 ## Steps to use this Template effectively
@@ -15,10 +21,10 @@ This repo includes a react basic layout using Vite. It includes Redux, eslint, a
 - You can edit the `READMETEMPLATE.md` to suit your project
 
 ## Important notes about react projects
+
 - always add directories into src folder
-- Don't mess with the the `index.js` file in the main Directory 
+- Don't mess with the the `index.js` file in the main Directory
 
 ## Video explaining Steps
 
-- [Geekyhacks](https://youtu.be/7Dpe_IZ06-I)git 
-
+- [Geekyhacks](https://youtu.be/7Dpe_IZ06-I)git
