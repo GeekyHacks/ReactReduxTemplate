@@ -30,4 +30,7 @@ This repo includes a react basic layout using Vite. It includes Redux, eslint, a
   - activate sass by `sass --watch Sass:Css`
   - create any sass file and it will be automatically created on css on the Css folder
   - you will use the css files in your JS or JSX file 
-  
+- for deployment on GitHub follow below steps:
+  - add `"homepage": "https://username.github.io/repository-name",` to package.json
+  - install gh-pages `npm install gh-pages --save-dev`
+  - deploy the page `npx gh-pages -d dist`
