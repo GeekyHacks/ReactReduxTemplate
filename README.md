@@ -33,4 +33,4 @@ This repo includes a react basic layout using Vite. It includes Redux, eslint, a
 - for deployment on GitHub follow below steps:
   - add `"homepage": "https://username.github.io/repository-name",` to package.json
   - install gh-pages `npm install gh-pages --save-dev`
-  - deploy the page `npx gh-pages -d dist`
+  - deploy the page `npx gh-pages -d dist` for vite bootstraped project
